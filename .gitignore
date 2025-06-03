@@ -1,1 +1,4 @@
+# Ignore all .DS_Store files
 .DS_Store
+img/.DS_Store
+code/.DS_Store
